@@ -48,7 +48,7 @@
 
     <properties>
         <hsqldb.version>2.4.0</hsqldb.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <sql2o.version>1.6.0</sql2o.version>
     </properties>
 
